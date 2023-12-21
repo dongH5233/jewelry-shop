@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jewelry-shop/static/css/main.b2a604e5.css",
+    "main.js": "/jewelry-shop/static/js/main.c08687b4.js",
+    "static/js/787.0de065c8.chunk.js": "/jewelry-shop/static/js/787.0de065c8.chunk.js",
+    "index.html": "/jewelry-shop/index.html",
+    "main.b2a604e5.css.map": "/jewelry-shop/static/css/main.b2a604e5.css.map",
+    "main.c08687b4.js.map": "/jewelry-shop/static/js/main.c08687b4.js.map",
+    "787.0de065c8.chunk.js.map": "/jewelry-shop/static/js/787.0de065c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a604e5.css",
+    "static/js/main.c08687b4.js"
+  ]
+}
